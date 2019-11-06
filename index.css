@@ -1,0 +1,65 @@
+.image-logo {width:70px;
+    height:60px;
+    background:#FFD433;
+    display:flex;
+    align-self:center;
+    justify-content:center;
+}
+header {
+    width:100%;
+    height:60px;
+    display:flex;
+    position:fixed;
+}
+ul {
+    list-style:none;
+    display:flex;
+    justify-content: space-around;
+}
+nav {
+    width:100%;
+    background:#FFD433;
+    font-style:italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size:19px;
+}
+
+.sign-up-page{
+    height:350px;
+    width: 100%;
+    background:#9B3131;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.sign-up-form {
+    text-align:center;
+    margin-bottom:25px; 
+}
+
+.video-page{
+    height:550px;
+    display:flex;
+    justify-content:center;
+    align-content:center;
+}
+
+.video{ text-align:center;
+  background:#9B3131;}
+
+.submit{margin-bottom:25px;}
+  .Cathrine{height:950px;
+background-image:url("https://img.radio.cz/zxJbsnPl2-gF_N8W9Al8JqTMMl0=/fit-in/1800x1800/1503049589__pictures/c/obrazy/schweninger_carl_koncert_baroko.jpg")
+}
+@media only screen and (max-width: 1100px) 
+  body {
+    background-color: black;
+  }
+}
+body{background:#FFD433;}
+
+.enjoy {
+  padding-top: 30px;
+}
